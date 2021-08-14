@@ -1,0 +1,1 @@
+import{o as t,d as e}from"./motion.35ece4f4.js";const i='{"title":"Конспекты","description":"","frontmatter":{"title":"Конспекты","list":"synopsis"},"relativePath":"synopsis/index.md","lastUpdated":1622481044539}',o={};o.render=function(i,o,s,r,n,d){return t(),e("div")};export default o;export{i as __pageData};
